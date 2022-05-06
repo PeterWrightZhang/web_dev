@@ -1,6 +1,13 @@
-# Web dev notes
+# Web 2
 
-# Lecture 1: Kickoff
+**Todo**
+
+- HTML/CSS
+- JavaScript/TypeScript
+- MongoDB/Postgres
+- Socket Programming
+
+# Basic
 
 **Accessing a Website**
 
@@ -40,7 +47,7 @@ var doge = "moar text";
 console.log(doge);
 ```
 
-# Lecture 2: HTML/CSS
+# HTML/CSS
 
 ## Toolchains cheatsheet
 
@@ -113,6 +120,8 @@ D --> J(Element: < h1>) --> K(Text: 'My header')
 
 ## CSS: Skin/Styling
 
+**Cascading Style Sheets**
 
+The rules that tell your web browser how stuff looks.
 
 
